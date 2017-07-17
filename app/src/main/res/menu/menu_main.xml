@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DrawerActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/action_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_shuffle_all"
+        android:title="@string/action_shuffle_all"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_colored_footers"
+        android:checkable="true"
+        android:title="@string/colored_footers" />
+
+    <item
+        android:id="@+id/action_sleep_timer"
+        android:orderInCategory="98"
+        android:title="@string/action_sleep_timer"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_equalizer"
+        android:orderInCategory="99"
+        android:title="@string/equalizer"
+        app:showAsAction="never" />
+
+</menu>

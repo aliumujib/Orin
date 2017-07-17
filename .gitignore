@@ -1,0 +1,42 @@
+app/src/main/res/values/com_crashlytics_export_strings.xml
+app/src/main/assets/crashlytics-build.properties
+#app/crashlytics.properties
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+target/
+
+# external libraries
+#libs/
+
+# gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+.gitattributes
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+*.iml
+.idea
+ajcore.*.txt
+captures/
+
+# Mac
+.DS_Store

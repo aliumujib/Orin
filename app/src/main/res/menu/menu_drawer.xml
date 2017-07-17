@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/navigation_drawer_menu_category_sections"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/ic_library_music_white_24dp"
+            android:title="@string/library" />
+        <item
+            android:id="@+id/nav_folders"
+            android:icon="@drawable/ic_folder_white_24dp"
+            android:title="@string/folders" />
+    </group>
+
+    <group
+        android:id="@+id/navigation_drawer_menu_category_other"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_white_24dp"
+            android:title="@string/action_settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_help_white_24dp"
+            android:title="@string/action_about" />
+    </group>
+
+</menu>

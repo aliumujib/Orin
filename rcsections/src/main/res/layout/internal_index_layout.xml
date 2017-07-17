@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="72dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/section_title"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        tools:text="A"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/circle_section_alphabet_bg"
+        android:visibility="invisible" />
+
+</merge>
