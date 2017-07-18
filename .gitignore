@@ -3,7 +3,6 @@ app/src/main/assets/crashlytics-build.properties
 #app/crashlytics.properties
 
 # built application files
-*.apk
 *.ap_
 
 # files for the dex VM
