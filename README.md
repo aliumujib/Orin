@@ -4,6 +4,7 @@ I always wanted to implement  Aleksandar Tešić\'s designs of a music player th
 https://material.uplabs.com/posts/a-music-player-in-material-design-a-concept, but haven\'t had the time to start one from scratch,
 so well I used Phonograph as a base , I dont have permissions to use these designs yet so I can\'t release the app on the Playstore
 
+<img src="SCREENDATA/GIF1.gif" width="450" />
 <img src="SCREENDATA/SCREENDATA1.png" width="850" />
 <img src="SCREENDATA/SCREENDATA2.png" width="850" />
 <img src="SCREENDATA/SCREENDATA3.png" width="850" />
