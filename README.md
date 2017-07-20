@@ -16,6 +16,22 @@ so well I used Phonograph as a base , I dont have permissions to use these desig
 See demo by downloading [Demo Apk](https://github.com/aliumujib/Orin/blob/master/apk/app-debug.apk)
 
 
+
+#### How to run
+```bash
+# Get the project
+git clone https://github.com/aliumujib/Orin.git
+
+# Change directory
+cd Orin/app
+
+# Change fabric key
+cd replace YOUR_FABRIC_CRASHLYTICS_KEY_HERE with your own crashlytics key
+
+# Open with android studio
+import with Android Studio and do what you will
+
+
 # License
 GNU General Public License v3.0
 
